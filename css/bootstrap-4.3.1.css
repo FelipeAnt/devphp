@@ -6578,7 +6578,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #2D044D !important;
+  background-color: #2D044D;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -10036,3 +10036,6 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.footer {
+	background-color: rgb(32, 32, 32);
+}
